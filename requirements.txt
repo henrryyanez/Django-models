@@ -4,3 +4,7 @@ djangorestframework==3.12.4
 django-filter==2.4.0
 # Drivers para trabajar con Postgres en linux:
 psycopg2-binary>=2.8
+# Task
+celery==5.1.2
+redis==3.5.3
+flower
